@@ -1,5 +1,5 @@
 {
-  "name": "sorxrob",
+  "name": "MRXY001",
   "version": "1.0.0",
   "description": "I'm a software developer based in Manila, PH specializing in building websites and applications.",
   "main": "update_readme.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sorxrob/sorxrob.git"
+    "url": "git+https://github.com/MRXY001/MRXY001.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sorxrob/sorxrob/issues"
+    "url": "https://github.com/MRXY001/MRXY001/issues"
   },
-  "homepage": "https://github.com/sorxrob/sorxrob#readme",
+  "homepage": "https://github.com/MRXY001/MRXY001#readme",
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^4.0.0",
