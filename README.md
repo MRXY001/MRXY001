@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi, I'm 小乂</h1>
-<h3 align="center">The developer of WriterFly and MagicalDanmaku</h3>
+<h3 align="center">编程不是模仿与赋值，而是创造与分享</h3>
 
 
 
