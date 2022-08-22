@@ -6,7 +6,8 @@
 
 
 <h1 align="center">Hi, I'm 小乂</h1>
-<h3 align="center">编程不是模仿与赋值，而是创造与分享</h3>
+<h3 align="center">一位辛辛苦苦勤勤恳恳的独立开发者</h3>
+<h3 align="center">正在为改造世界而努力写代码...</h3>
 
 
 
